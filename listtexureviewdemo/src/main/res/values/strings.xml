@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">mVideoPro2</string>
+
+    <item name="water_position_tag" type="id"></item>
+
+    <string name="button_cancle">取消</string>
+    <string name="button_use">使用</string>
+<string name="setting_title_text">播放和上传设置</string>
+    <string name="setting_play_title_text">播放和上传设置</string>
+    <string name="setting_play_wifi">仅在WIFI下自动播放</string>
+    <string name="setting_play_auto">始终自动播放</string>
+    <string name="setting_play_close">禁止自动播放</string>
+    <string name="setting_cache_title">缓存设置</string>
+    <string name="setting_cache_clean">清除视频及图片缓存</string>
+    <string name="toast_connect_wifi">已连接至wifi网络</string>
+    <string name="toast_connect_gprs">网络已连接</string>
+    <string name="toast_connect_not_avalible">网络不可用</string>
+     <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+      <string name="minutes_ago">分钟前</string>
+   <string name="hours_ago">小时前</string>
+</resources>

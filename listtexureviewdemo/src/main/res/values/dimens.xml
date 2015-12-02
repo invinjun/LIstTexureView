@@ -1,0 +1,23 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- default -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="water_mark_padding_up_down">10dp</dimen>
+    <dimen name="water_mark_padding_left_right">5dp</dimen>
+    
+    <dimen name="text_size_small">12dp</dimen>
+    <dimen name="text_size_normal">14dp</dimen>
+    <dimen name="text_size_large">16dp</dimen>
+    
+    <dimen name="button_width">50dp</dimen>
+    <dimen name="button_height">25dp</dimen>
+    
+    <dimen name="water_mark_sample_size">100dp</dimen>
+    <dimen name="list_weibo_textsize">16sp</dimen>
+	<dimen name="list_time_textsize">13.3sp</dimen>
+	<dimen name="list_portrait_width">50dip</dimen>
+	<dimen name="list_portrait_height">50dip</dimen>
+
+</resources>

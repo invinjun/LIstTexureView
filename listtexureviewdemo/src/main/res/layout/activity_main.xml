@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+
+
+
+    <com.example.invinjun.listtexureviewdemo.view.MyListView
+        android:id="@+id/main_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@color/transparent"
+        android:divider="#ffffff"
+        android:listSelector="@color/transparent"
+
+         >
+ </com.example.invinjun.listtexureviewdemo.view.MyListView>
+    
+</RelativeLayout>
